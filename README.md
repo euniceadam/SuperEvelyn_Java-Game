@@ -16,13 +16,13 @@ The controls are the arrow keys (right, and left) and also the space-bar or up k
 So far the point of the game is simple, in the future it would be nice to make the black bagel villain more
 interesting and to also make Evelyn be able to avoid them.
 
-//** Instructions **//
+** INSTRUCTIONS **
 
 To run the game, all the packages must be present. When playing, you can jump however, it is not necessary at the
 moment for this version of the game. To start the game again, exit the program and run again. Once you see the second
 rock, the game is over. You can explore more but the game mission is over. The game is run through the main class.
 
-//** Sprites and Graphics **//
+** SPRITES AND GRAPHICS **
 
 I designed all the game graphics myself with an online pixel drawing website. The reference pictures I used to make
 the Evelyn rock was a scene from the movie; the same goes for the desert background. Since Evelyn is just a rock,
@@ -30,7 +30,7 @@ I kept the animations simple, with her googly eyes moving up and down as she jum
 
 The flag at the beginning of the game indicates the starting point and the Joy rock at the end indicates the end.
 
-//** Game Mechanics **//
+** GAME MECHANICS **
 
 - The Animations: The game has animations for how the rock moves and jumps. The animations are implemented in
 the sprite class and called in the paintComponents.
@@ -47,7 +47,7 @@ of many possibilities of games that could be made based on the film's amazing pl
 - Flourish: the flourish I worked on is the graphics that I designed myself.
 
 
-//** Description of Classes **//
+** CLASS DESCRIPTIONS **
 
 Main Package:
 
